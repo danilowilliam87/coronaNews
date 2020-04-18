@@ -1,0 +1,87 @@
+.fundo{
+   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq_jKG236xC789O8vbElBOtN0Genr5nTvqcJ8ZCLBmjagd1yFb&usqp=CAU');
+   background-repeat:no-repeat;
+   background-size:cover;
+   height:400px;
+   width:100%;
+   border-bottom-style:solid;
+   border-color:#8470FF;
+   border-width:30px; 
+ }
+
+.menu{
+      border-style:solid;
+      border-radius:1px;
+      font-size:24px;
+      width:200px;
+      border-color:#8470FF;
+      float:left;
+      background-color:#C6E2FF;
+      height:1300px;
+   
+      
+   }
+
+#fundo{
+     background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZUYroxHy2IIupAkDap4CQrIMM__1plsNBwJ9t3RR-GX2pgqE6&usqp=CAU');
+      background-size:cover;
+      opacity:0.9;
+}
+
+#noticia{
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQheaCJhqy81_6AClMU1wZfgt7IFoIC4FVO0RC1_0ynXaoMBRX0&usqp=CAU');
+ 
+}
+
+.bordaDireita{
+    
+    float:right;
+    background-color: #C6E2FF;
+    height:1300px;
+    border-style:solid;
+    border-radius:1px;
+   
+    width:200px;
+    border-color:#8470FF;
+ }
+.rodape{
+   clear:both; 
+   background-color:#9C9C9C;
+   width:700;
+   text-align:center;
+}
+
+.artigo{
+     float:left;
+     width:750px;
+     padding:1px;    
+   }
+
+a:hover {
+    text-decoration:none;
+    background-color:#8470FF;
+}
+
+p{
+    font-size:15px;
+    font-family:"Lucida Console", "monospace";
+    
+    
+ }
+th{
+     border-style:solid;
+     border-radius:10px;
+     background-color:#8470FF;
+     color:white;
+     
+   
+  }
+.td {
+    border-left-style:solid;
+    border-radius:1px;
+    border-color:#8470FF;;
+    border-width:5px;
+    
+ }
+
+
